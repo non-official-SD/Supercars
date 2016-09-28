@@ -1,0 +1,10 @@
+INCLUDE(../../../../cmake/macros.cmake)
+
+SD_ADD_SUBDIRECTORY(sc-boxer-96)
+SD_ADD_SUBDIRECTORY(sc-cavallo-360)
+SD_ADD_SUBDIRECTORY(sc-fmc-gt4)
+SD_ADD_SUBDIRECTORY(sc-lynx-220)
+SD_ADD_SUBDIRECTORY(sc-kanagawa-z35gts)
+SD_ADD_SUBDIRECTORY(sc-kongei-kk8s)
+SD_ADD_SUBDIRECTORY(sc-murasama-nsx)
+SD_ADD_SUBDIRECTORY(sc-spirit-300)
